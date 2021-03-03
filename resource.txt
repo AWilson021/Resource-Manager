@@ -1,0 +1,7 @@
+handgun bullets
+bullets ore
+bombs ore
+turret bullets
+kitty food
+handgun metal
+metal ore
